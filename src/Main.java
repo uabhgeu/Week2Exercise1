@@ -9,5 +9,4 @@ public class Main {
 		System.out.println("Result of NrA - NrB = " + result.subtraction(5.8,5.5));
 
 	}
-
 }
